@@ -1,5 +1,4 @@
 from upemtk import *
-from matplotlib import *
 from random import randint
 import math
 
